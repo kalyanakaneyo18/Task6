@@ -1,0 +1,12 @@
+{
+  "best_model": "XGBoost",
+  "feature_engineering": "yes",
+  "test_metrics": {
+    "MAE": 971991.375,
+    "RMSE": 1326719.9444,
+    "R2": 0.9876,
+    "MAPE": 5.1355
+  },
+  "train_size": 240,
+  "test_size": 60
+}

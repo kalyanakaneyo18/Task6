@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+task6/
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Project runtime
+logs/
+outputs/
+models/*.pkl
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env
+.env
+scripts/
+project_plan.md
